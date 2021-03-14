@@ -1,2 +1,1 @@
-# Fetch-API_Consumindo-uma-API-Rest-JavaScript
-Finalizado mais um curso online na Alura Cursos Online  Curso "Fetch API: Consumindo uma API Rest com JavaScript"  Este curso abordou os seguintes tópicos:  >> Exibindo dados dinamicamente com Javascript >> Consumindo dados da API >> Criando um cliente >> Deletando um cliente >> Editando dados dos Clientes >> Mensagem para o usuário  Curso ministrado ministrado pelo instrutor Felipe Nascimento
+Finalizado mais um curso na Alura Cursos On-line
