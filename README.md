@@ -4,7 +4,7 @@
    <img src="https://scontent.fsjk2-1.fna.fbcdn.net/v/t1.0-9/120108375_3627567893941453_8098597997110496349_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=cdbe9c&_nc_ohc=x8pOiHPNqKUAX8JV3Gs&_nc_ht=scontent.fsjk2-1.fna&oh=103a63f077f53818ca3d7713a796a261&oe=6071728A" border="0">
 </h1>
 
-Este curso faz parte da Formação Front End do programa Acelera Devs na TIVIT que participei. 
+Este curso faz parte da Formação Front End do programa Acelera Devs.
 
 O Acelera Devs é um programa de capacitação e formação de desenvolvedores full-stack. A iniciativa surgiu como uma resposta à alta demanda do mercado por desenvolvedores, uma vez que, segundo levantamento da Brasscom, há um déficit de 24 mil formandos na área de Tecnologia da Informação (TI). 
 
